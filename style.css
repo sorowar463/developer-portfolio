@@ -1,4 +1,41 @@
-body{font-family: 'Lobster', cursive;}
-h1{font-size: 50px;}
-h2{font-size: 40px;}
+body{font-family: 'Lobster', cursive;
+margin: 0;}
+h1{font-size: 45px;
+color: crimson;
+  }
+h2{font-size: 38px;}
+h3{color: darkred;}
+p{color: blueviolet;}
 .c1{color: darkorange;}
+section{display: inline-flex}
+.d1{
+    width:50%;
+   
+    padding:7%;
+   
+    }
+.d1 img{width: 50%;
+    padding-top: -70%;
+    padding-left: 20%;
+    padding-right: 10%;
+    width: 500px;
+    display:inline-flex;
+    margin-top: -13%;
+}
+.link-button{
+    text-decoration:lawngreen;
+    background-color: orange;
+    font-weight: 400;
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(rgb(224, 72, 7), rgb(249, 210, 13));
+}
+.f1{
+    width: 10%;
+    height: 15%;
+}
+.top-banner{
+    padding-top:-10%;
+    margin-top:-70%;
+    
+}
