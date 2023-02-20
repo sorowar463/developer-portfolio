@@ -1,71 +1,90 @@
 body{font-family: 'Lobster', cursive;
-margin: 0;}
-h1{font-size: 45px;
-color: crimson;
-  }
-h2{font-size: 38px;}
-h3{color: darkred;}
-p{color: rgb(237, 91, 0);}
-.c1{color: darkorange;}
-.flex-container{display: inline-flex}
-.d1{
-    width:50%;
-    padding:7%;
-    padding-top: 6%;
-    margin-top: -5%;
-    margin: bottom -100px;
+    margin: 0;}
+    h1{font-size: 45px;
+    color: crimson;
+      }
+    h2{font-size: 38px;}
+    h3{color: darkred;}
+    p{color: rgb(237, 91, 0);}
+    .c1{color: darkorange;}
+    .flex-container{display: inline-flex}
+    .d1{
+        width:50%;
+        padding:7%;
+        padding-top: 6%;
+        margin-top: -5%;
+        margin: bottom -100px;
+        }
+    .d1 img{width: 50%;
+        padding-top:-50%;
+        padding-left: 10%;
+        padding-right: 10%;
+        width: 500px;
+        display:flex;
+        margin-top:0%;
+        margin-bottom: 0%;
     }
-.d1 img{width: 50%;
-    padding-top:-50%;
-    padding-left: 10%;
-    padding-right: 10%;
-    width: 500px;
-    display:flex;
-    margin-top:0%;
-    margin-bottom: 0%;
-}
-.link-button{
-    text-decoration:lawngreen;
-    background-color: orange;
-    font-weight: 400;
-    padding: 10px 40px;
-    border-radius: 5px;
-    background-image: linear-gradient(rgb(224, 72, 7), rgb(249, 210, 13));
-}
-.f1{
-    width: 10%;
-    height: 15%;
-}
-.top-banner{
-    padding-top:-10%;
-    margin-top:-70%;
-    
-}
-.d2 img{width: 50%;
-   
-    width: 500px;
-    display:inline-flex;
-    margin-top: -20%;
-    
-}
-.d2{
-    width:50%;
-    padding:7%;
-    padding-left: 10%;
-    padding-bottom: -70%;
-    margin-top: 0%;
+    .link-button{
+        text-decoration:lawngreen;
+        background-color: orange;
+        font-weight: 400;
+        padding: 10px 40px;
+        border-radius: 5px;
+        background-image: linear-gradient(rgb(224, 72, 7), rgb(249, 210, 13));
     }
-    .dream{
-        display: flex;
-        background-image: url(Image/b1.jpg);
-        background-size: 100%;
+    .f1{
+        width: 10%;
+        height: 15%;
+    }
+    .top-banner{
+        padding-top:-10%;
+        margin-top:-70%;
+        
+    }
+    .d2 img{width: 50%;
        
+        width: 500px;
+        display:inline-flex;
+        margin-top: -20%;
+        
     }
-    .ex-title{
-        color: rgb(157, 255, 10);
-        padding-left: 7%;
-    }
-    .ex-area{
-        background-image: url(Image/b2.jpg);
-        background-size: 100%;
-    }
+    .d2{
+        width:50%;
+        padding:7%;
+        padding-left: 10%;
+        padding-bottom: -70%;
+        margin-top: 0%;
+        }
+        .dream{
+            display: flex;
+            background-image: url(Image/b1.jpg);
+            background-size: 100%;
+           
+        }
+        .ex-title{
+            color: rgb(246, 246, 8);
+            padding-left: 13%;
+            padding-top: 6%;
+        }
+        .ex-area{
+            background-image: url(Image/b2.jpg);
+            background-size: 100%;
+        }
+        .h3-or{
+            color: rgb(70, 190, 254);
+        }
+        .ex1{
+            width:40%;
+            margin-left: 5%;
+            margin-right: 5%;
+            margin-top: 5%;
+            box-shadow: 5px 5px 20px gray;
+            border-radius: 10px solid;
+            border-left: 10px solid white;
+        }
+        .h11{
+            color: aqua;
+        }
+        .p11{
+            color: darkgray;
+        }
